@@ -1,0 +1,9 @@
+Mar 15 06:25:12 mframe1 postfix/postfix-script[23423]: fatal: the Postfix mail system is already running
+Jan 24 06:32:47 mframe1 postfix/smtp[8377]: fatal: unknown service: smtp/tcp
+Jan 14 16:30:24 mframe1 postfix[662]: fatal: usage: postfix [-c config_dir] [-Dv] command
+Jun 20 19:16:46 mframe1 postfix/smtpd[25854]: warning: valid_hostname: invalid character 92(decimal): \@
+Jun 20 19:16:46 mframe1 postfix/smtpd[25854]: warning: malformed domain name in resource data of MX record for dondino.de: \@
+Jun 26 02:39:40 mframe1 postfix/smtpd[20570]: warning: non-SMTP command from localhost[127.0.0.1]: Content-Type: text/html;
+Feb 25 15:57:27 mframe1 postfix/smtpd[25140]: warning: Illegal address syntax from localhost[127.0.0.1] in RCPT command: <name@62.157.140.137>
+Feb 20 22:56:51 mframe1 postfix/postfix-script[4735]: fatal: the Postfix mail system is already running
+Feb 20 22:56:51 mframe1 postfix/postfix-script[4735]: success: ALL OKK
